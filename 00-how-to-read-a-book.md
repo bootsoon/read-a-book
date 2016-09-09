@@ -83,8 +83,30 @@ The more you know about the author and his/her organization and/or discipline, t
 
 You can often (though not always) learn about much of this from the acknowledgments, the bibliography, and the author's biographical statement.
 
-# Know the intellectual context
+## Know the intellectual context
 
 Knowing the author and his/her organization also helps you understand the book's intellectual context. This includes the academic discipline(s) from which it draws, schools of thought within that discipline, and others who agree with or oppose the author's viewpoint.
 
 A book is almost always partly a response to other writers, so you'll understand a book much better if you can figure out what, and whom, it is answering. Pay special attention to points where the author tells you directly that s/he is disagreeing with others: "Conventional wisdom holds that x, but I agree instead that y."(Is x really conventional wisdom? Among what group of people?) "Famous Jane Scholar says that x, but I will show that y."(Who's Famous Jane, and why do other people believe her? How plausible are x and y? Is the author straining to find something original to say, or has s/he genuinely convinced you that Famous Jane is wrong?) Equally important are the people and writings the author cites in support of his/her arguments.
+
+## Read it three times
+
+**This is the key technique.** You'll get the most out of the book if you read it three times -- each time for a different purpose.
+
+1. **Overview: discovery (5-10 percent of the total time)**
+
+   Here you read very quickly, following the principle (described below) of reading for high information content. Your goal is to **discover** the book. You want a quick-and-dirty, unsophisticated, general picture of the writer's purpose, methods, and conclusions.
+
+   Mark -- without reading carefully -- headings, passages, and phrases that seem important (you'll read these more closely the second time around.) Generate questions to answer on your second reading: what does term or phrase X mean? Why doesn't the author cover subject Y? Who is Z?
+
+2. **Detail: understanding (70-80 percent of total time)**
+
+   Within your time constraints, read the book a second time. This time, your goal is understanding: to get a careful, critical, thoughtful grasp of the key points, and to evaluate the author's evidence for his/her points.
+
+   Focus especially on the beginnings and ends of chapters and major sections. Pay special attention to the passages you marked on the first round. Try to answer any question you generated on the first round.
+
+3. **Notes: recall and note-taking (10-20 percent of total time)**
+
+   The purpose of your third and final reading is to commit to memory the most important elements of the book. This time, make brief notes about the arguments, evidence, and conclusions. This is not at all the same thing as text markup; your goal here is to process the material by translating into your own mental framework, which means using your own words as much as possible. Cutting and pasting segments of text from the book will not do as much for you as summarizing very briefly in your own words. Include the bare minimum of detail to let you remember and re-locate the most important things. 1-3 pages of notes per 100 pages of text is a good goal to shoot for; more than that is often too much. Use some system that lets you easily find places in the book (e.g., start each note with a page number.)
+
+   Notebooks, typed pages, or handwritten sheets tucked into the book can all work. However notes will be useless unless you can easily find them again. A very good system -- the one I use -- is to type notes directly into bibliography entries using citation manager software such as Endnote, Zetero, or Bookends. See below for more on citation managers.

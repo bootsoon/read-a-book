@@ -1,6 +1,6 @@
 # How to Read a Book, v5.0
 
-Paul N. Edwards, School of information University of Michigan
+*Paul N. Edwards, School of information University of Michigan*
 
 How can you learn the most from a book -- or any other piece of writing -- when you're reading for information, rather for pleasure?
 
@@ -72,3 +72,19 @@ Keep coming back to these questions as you read. By the time you finish, you sho
 Don't wait for the author to hammer you over the head. Instead, from the very beginning, constantly generate hypotheses ("the main point of the book is that...") and questions ("How does the author know that...?") about the book.
 
 Making brief notes about these can help. As you read, try to confirm your hypotheses and answer your questions. Once you finish, review these.
+
+## Know the author(s) and organizations
+
+Knowing who wrote a book helps you judge its quality and understand its full significance. Authors are people. Like anyone else, their views are shaped by their educations, their jobs, their early lives, and the rest of their experiences. Also like anyone else, they have prejudices, blind spots, desperate moments, failings, and desires -- as well as insights, brilliance, objectivity, and successes. Notice all of it.
+
+Most authors belong to organizations: universities, corporations, governments, newspapers, magazines. There organizations each have cultures, hierarchies of power, and social norms. Organizations shape both how a work is written and the content of what is says. For example, university professors are expected to write books and/or journal articles in order to get tenure. These pieces of writing must meet certain standards of quality, defined chiefly by other professors; for them, content usually matters more than good writing. Journalists, by contrast, are often driven by deadlines and the need to please large audiences. Because of this, their standards of quality are often directed more toward clear and engaging writing than toward unimpeachable content; their sources are usually oral rather than written.
+
+The more you know about the author and his/her organization and/or discipline, the better you will be able to evaluate what you need. Try to answer questions like these: What shaped the author's intellectual perspective? What is his or her profession? Is the author an academic, a journalist, a professional (doctor, lawyer, industrial scientist, etc.)? Expertise? Other books and articles? Intellectual network(s)? Gender? Race? Class? Political affiliation? Why did the author decide to write this book? When? For what audience(s)? Who paid for the research work (private foundations, government grant agencies, industrial sponsors, etc.)? Who wrote "jacket blurbs" in support of the book?
+
+You can often (though not always) learn about much of this from the acknowledgments, the bibliography, and the author's biographical statement.
+
+# Know the intellectual context
+
+Knowing the author and his/her organization also helps you understand the book's intellectual context. This includes the academic discipline(s) from which it draws, schools of thought within that discipline, and others who agree with or oppose the author's viewpoint.
+
+A book is almost always partly a response to other writers, so you'll understand a book much better if you can figure out what, and whom, it is answering. Pay special attention to points where the author tells you directly that s/he is disagreeing with others: "Conventional wisdom holds that x, but I agree instead that y."(Is x really conventional wisdom? Among what group of people?) "Famous Jane Scholar says that x, but I will show that y."(Who's Famous Jane, and why do other people believe her? How plausible are x and y? Is the author straining to find something original to say, or has s/he genuinely convinced you that Famous Jane is wrong?) Equally important are the people and writings the author cites in support of his/her arguments.

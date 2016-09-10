@@ -110,3 +110,33 @@ A book is almost always partly a response to other writers, so you'll understand
    The purpose of your third and final reading is to commit to memory the most important elements of the book. This time, make brief notes about the arguments, evidence, and conclusions. This is not at all the same thing as text markup; your goal here is to process the material by translating into your own mental framework, which means using your own words as much as possible. Cutting and pasting segments of text from the book will not do as much for you as summarizing very briefly in your own words. Include the bare minimum of detail to let you remember and re-locate the most important things. 1-3 pages of notes per 100 pages of text is a good goal to shoot for; more than that is often too much. Use some system that lets you easily find places in the book (e.g., start each note with a page number.)
 
    Notebooks, typed pages, or handwritten sheets tucked into the book can all work. However notes will be useless unless you can easily find them again. A very good system -- the one I use -- is to type notes directly into bibliography entries using citation manager software such as Endnote, Zetero, or Bookends. See below for more on citation managers.
+
+## On time and timing
+
+First, because human attention fades after about an hour, you'll get more out of three one-hour readings than you could ever get out from one three-hour reading. But be careful: to get one full hour of effective reading, you need to set aside at least one hour and fifteen minutes, since distraction is inevitable at the beginning (settling in) and end (re-arousal for your next task) of any reading period.
+
+Second, make a realistic plan that includes how much time you will devote to each of the three stages. For a 250-page book, I might spend 15 minutes on overview, 4 hours on detailed reading, and 20-30 minutes making notes -- but I'd adjust these period up and down depending on how difficult the text is, how important it is to me, and how much time I have.
+
+## Focus on the parts with high information content
+
+Non-fiction books very often have an "hourglass" structure that is repeated at several levels of organization. More general (broader) information is typically presented at the beginnings and ends of:
+
+* the book or article as a whole (abstract, introduction, conclusion)
+* each chapter
+* each section within a chapter
+* each paragraph
+
+More specific (narrower) information (supporting evidence, details, etc.) then appears in the middle of the hourglass.
+
+You can make the hourglass structure of writing do a lot of work for you. Foucs on the following elements, in more or less the following order:
+
+* **Front and back covers, inner jacket flaps**
+* **Table of contents**
+* **Index**: scan this to see which are the most important terms
+* **Bibliography**: tells you about the book's sources and intellectual context
+* **Preface** and/or **introduction** and/or **Abstract**
+* **Conclusion**
+* **Pictures, graphs, tables, figures**: images contain more information than text
+* **Chapter introduction and conclusions**
+* **Section headings**
+* **Special type or formatting**: boldface, italics, numbered items, lists

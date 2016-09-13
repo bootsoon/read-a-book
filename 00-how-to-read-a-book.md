@@ -128,7 +128,7 @@ Non-fiction books very often have an "hourglass" structure that is repeated at s
 
 More specific (narrower) information (supporting evidence, details, etc.) then appears in the middle of the hourglass.
 
-You can make the hourglass structure of writing do a lot of work for you. Foucs on the following elements, in more or less the following order:
+You can make the hourglass structure of writing do a lot of work for you. Focus on the following elements, in more or less the following order:
 
 * **Front and back covers, inner jacket flaps**
 * **Table of contents**
@@ -140,3 +140,13 @@ You can make the hourglass structure of writing do a lot of work for you. Foucs 
 * **Chapter introduction and conclusions**
 * **Section headings**
 * **Special type or formatting**: boldface, italics, numbered items, lists
+
+## Use PTML (personal text markup language)
+
+Always, always, always mark up your reading. This a critical part of active reading. Do this from the very beginning -- even on your first, overview reading. Why? Because when you come back to the book later, your marks reduce the amount you have to look at and help you see what's most significant.
+
+**Don't mark too much.** This defeats the purpose of markup; when you consult your markup later, heavy markup will force you to re-read unimportant information. As a rule, you should average no more than two or three short marks per page. Rather than underline whole sentences, underline words or short phrases that capture what you most need to remember. The point of this is to distill, reduce, eliminate the unnecessary. Write words and phrases in the margins that tell you what paragraphs or sections are about. Use your own words.
+
+## Page vs. screen
+
+Printed material has far higher resolution (~600 dpi) than even the best computer screens (~100 dpi); see the illustration of 300 vs. 600 dpi, below. For this reason you will read more accurately, and with less fatigue, if you stick with the paper version. Still, we inevitably read much more screen-based material now.

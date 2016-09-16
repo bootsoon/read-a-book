@@ -162,3 +162,11 @@ When taking notes about something you're reading (as opposed to marking up the t
 It's hard to overemphasize the huge advantages of citation manager software such as Endnote, Bookends, Zotero, Mendeley, CiteULike, etc. They let you keep track of your growing library, easily enter and format citations in your word processor (saving you the incredible irritation of doing it yourself). Most of them can pull in citations directly from the web, record web links, find DOI's, and so on. Some have their own web search tools built in. Some, such as Bookends (Mac only), will automatically rename documents with Author-Date-Title, a huge help with the extremely annoying problem of uninformative filenames. None of these packages are perfect. All have both advantages and disadvantages, and the more sophisticated ones have steep learning curves. Look for one that can handle all major document formats, including books, journal articles, newspaper articles, online sources, interviews, and so on. Be wary of managers that only handle PDFs, since so many other formats are still important.
 
 If you use the notes field of your citation manager in a disciplined way, your notes will always be easy to find. When your library starts reaching into the thousands of items, this is a godsend.
+
+## Use your unconscious mind
+
+An awful lot of thinking and mental processing goes on when you're not aware of it. Just as with writing or any other creative thought process, full understanding of a book takes time to develop.
+
+Like the body, the mind suffers from fatigure when doing just one thing for many hours. Your ability to comprehend and retain what you read drops off dramatically after an hour or so. Therefore, you should read a book in several short sessions of one to two hours apiece, rather than one long marathon.
+
+In between, you unconscious mind will process some of what you've read. When you come back for the next session, start by asking yourself what you remember from your previous reading, what you thing of it so far, and what you sill need to learn.

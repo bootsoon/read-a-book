@@ -167,6 +167,22 @@ If you use the notes field of your citation manager in a disciplined way, your n
 
 An awful lot of thinking and mental processing goes on when you're not aware of it. Just as with writing or any other creative thought process, full understanding of a book takes time to develop.
 
-Like the body, the mind suffers from fatigure when doing just one thing for many hours. Your ability to comprehend and retain what you read drops off dramatically after an hour or so. Therefore, you should read a book in several short sessions of one to two hours apiece, rather than one long marathon.
+Like the body, the mind suffers from fatigue when doing just one thing for many hours. Your ability to comprehend and retain what you read drops off dramatically after an hour or so. **Therefore, you should read a book in several short sessions of one to two hours apiece, rather than one long marathon.**
 
-In between, you unconscious mind will process some of what you've read. When you come back for the next session, start by asking yourself what you remember from your previous reading, what you thing of it so far, and what you sill need to learn.
+In between, you unconscious mind will process some of what you've read. When you come back for the next session, start by asking yourself what you remember from your previous reading, what you think of it so far, and what you still need to learn.
+
+## Rehearse, and use multiple modes
+
+Reading is exactly like martial arts, baseball, or cooking in the sense that **learning and memory depend crucially on rehearsal.**
+
+So -- after you've read the book, rehearse what you've learned. Quiz yourself on its contents. Argue with the author. Imagine how you would defend the author's position in your own writing.
+
+Reading, writing, speaking, listening, and visualizing all engage different parts of the brain. For this reason, the best forms of rehearsal use **multiple modes** of thinking and action. Don't just contemplate privately. Instead, talk about the book with others. Bring it up in classes. Write about it. visualize anything that can be visualized about its contents. All of this helps fix your memory and integrate your new learning into the rest of your knowledge.
+
+## Hang in there!
+
+When I give presentations on these ideas, students often tell me a few weeks later that they "tried it a few times and just couldn't do it," so they stopped.
+
+**You will have to practice** these techniques fro a considerable length of time -- at least a few months -- before they come to seem natural, and they will never be easier than the comfortable, passive way we've all been reading for many years.
+
+Hang in there. The rewards of these techniques are great, or so say the hundreds of students who've told me so years later. Learning to read like this can be critical key to a successful career as a student, scholar, or professional in almost any field.

@@ -18,6 +18,11 @@ One feature that deserves to be highlighted is the applicability of *Asking the 
 
 Who would find *Asking the Right Questions* especially beneficial? Because of our teaching experiences with readers representing many different levels of ability, we have difficulty `envisioning` any academic course or program for which this book would not be useful. In fact, the first nine editions have been used in law, English, `pharmacy`, `philosophy`, education, `psychology`, `sociology`, religion, and social science courses, as well as in numerous high school classrooms.
 
+A few uses for the book seem especially appropriate. Teachers in general education programs may want to begin their courses by assigning this book as a `coherent` response to their students' requests to explain what is expected of them. English courses that emphasize `expository` writing could use this text both as a format for evaluating arguments prior to constructing an essay and a checklist of problems that the writer should attempt to avoid as she writes. The text can also be used as the central focus of courses designed specifically to teach critical reading and thinking skills.
+
+While *Asking the Right Questions* `stems` primarily from our classroom experiences, it is written so that it can guide the reading and listening habits of almost everyone. The skills that it seeks to develop are those that any critical reader needs to serve as a basis for rational decisions. The critical questions stressed in the book can enhance anyone's reasoning, regardless of the extent of his or her formal education.
+
+
 ## CONTENTS
 
 [Chapter 01](./01/chapter-01.md) 

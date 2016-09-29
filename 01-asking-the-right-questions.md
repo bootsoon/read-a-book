@@ -22,6 +22,14 @@ A few uses for the book seem especially appropriate. Teachers in general educati
 
 While *Asking the Right Questions* `stems` primarily from our classroom experiences, it is written so that it can guide the reading and listening habits of almost everyone. The skills that it seeks to develop are those that any critical reader needs to serve as a basis for rational decisions. The critical questions stressed in the book can enhance anyone's reasoning, regardless of the extent of his or her formal education.
 
+The special features of this new edition include the following:
+
+1. We added an entire new chapter focusing on the role of `cognitive` biases and other `obstacles` to careful critical thinking.
+2. Throughout the book, we have integrated insights from Daniel Kahneman's __Thinking, Fast and Flow__. We especially emphasize the importance of slow thinking.
+3. We continue with `think-aloud` answers for early practice passages -- expressing critical-thinking responses to a passage as if the reader were inside the head of a person struggling with the challenge of evaluating the practice passages. We think that "hearing" the bit-by-bit process of accepting, rejecting, revising, and organizing an answer gives the reader a more realistic picture of the acture critical-thinking process used to achieve an answer than would simply observing an answer. Here we are relying on the important `metaphor` of John Gardner who `chastised` teachers and trainers for showing learners only the cut flowers of knowledge and not the planting, `weeding`, fertilizing, and `pruning` that result in a beautiful `bouquet`.
+4. We also emphasize the social or interactive nature of critical thinking and the real-world `realty` that the way in which one asks critical-thinking questions can greatly influence the value of the questioning. For example, many readers initially flexing their critical-questioning muscles with others find that not everyone welcomes the critical questioning of their beliefs. Some interactive approaches `stimulate` much more satisfactory dialogues between the critical thinker and the speaker or writer than others. We suggest questioning and listening strategies to keep the conversation going rather than shutting it down. For example, critical questioning will often be brought to a quick halt by a listener's response of, "Why are you picking on me?"
+5. We have inserted many new examples and practice passages to provide frequent `engagement` with `contemporary` issues and to demonstrate critical thinking's real-life value and application.
+
 
 ## CONTENTS
 

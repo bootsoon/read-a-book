@@ -30,6 +30,22 @@ The special features of this new edition include the following:
 4. We also emphasize the social or interactive nature of critical thinking and the real-world `realty` that the way in which one asks critical-thinking questions can greatly influence the value of the questioning. For example, many readers initially flexing their critical-questioning muscles with others find that not everyone welcomes the critical questioning of their beliefs. Some interactive approaches `stimulate` much more satisfactory dialogues between the critical thinker and the speaker or writer than others. We suggest questioning and listening strategies to keep the conversation going rather than shutting it down. For example, critical questioning will often be brought to a quick halt by a listener's response of, "Why are you picking on me?"
 5. We have inserted many new examples and practice passages to provide frequent `engagement` with `contemporary` issues and to demonstrate critical thinking's real-life value and application.
 
+## Instructor's Manual
+
+An Instructor's Manual provides comprehensive assistance for teaching with Asking the Right Questions. Instructors may download this supplement at http://www.personhighered.com/ or request access through their local Pearson representative.
+
+This 11th edition owes special debts to many people. We wish to acknowledge the valuable advice of the following Pearson reviewers: Diane K. Lofstorm Miniel, University of Nevada, Reno; Clarissa M. Uttley, Plymouth State University; John Saunders, Huntindon College; Joshua Hayden, Cumberland University; and Leslie St. Martin, College of the Canyons.
+
+While our students are always a major source of suggested improvements, a few distinguished themselves in that regard. The 11th edition benefited from the especially valuable assitance of Lauren Biksacky, Chelsea Brown, and Cassandra Baker.
+
+If you are fascinated by questions and the significance of habitual questioning for our mental development, please join Neil Browne in discussing the complicated relationship between questions and answers at this blog: "A Celebration of Probing Questions and Humble Answers." 
+
+www.celebratequetions.com
+
+**M.Neil Browne**  
+**Stuart M. Keeley**  
+
+
 
 ## CONTENTS
 
